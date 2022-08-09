@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <name>Shiburaj</name>
+        <email>shiburaj@eng.rizvi.edu.in</email>
+        <address>
+            <local>
+                vasai
+            </local>
+            <permanent>
+                bandra
+            </permanent>
+        </address>
+    </user>
+
+</users>
