@@ -6,3 +6,8 @@
 - Tables
 - Forms
 - Anchors
+
+
+### Chapter 2 : CSS
+- Positions ([Starter](https://shiburaj.github.io/wt-codes/chapter2/starter.html)) ([Finished](https://shiburaj.github.io/wt-codes/chapter2/finished.html))
+
