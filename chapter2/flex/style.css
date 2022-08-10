@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    background-color: rgb(199, 199, 199);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.container div {
+    padding: 1em;
+    width: 200px;
+}
+
+.div1 {
+    background-color: rgb(187, 22, 22);
+    color: antiquewhite;
+
+}
+
+.div2 {
+    background-color: rgb(33, 22, 187);
+    color: antiquewhite;
+}
+
+.div3 {
+    background-color: rgb(20, 138, 5);
+    color: antiquewhite;
+}
